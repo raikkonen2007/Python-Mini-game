@@ -232,7 +232,7 @@ while running:
 
     # 모든 공을 없앤 경우 게임 종료
     if len(balls) == 0:
-        game_result = "Mission Comp[lete"
+        game_result = "Mission Complete"
         running = False
 
     #   5. 화면에 그리기
